@@ -1,0 +1,27 @@
+using System;
+
+namespace MyApp // Note: actual namespace depends on the project name.
+{
+    internal class Program
+    {
+       
+
+class Car
+{
+ public string name ="B M Dablu";
+}
+
+
+
+class Hoho_car
+{
+  static void Main(string[] args)
+  {
+    Car myObj = new Car();
+    Console.WriteLine(myObj.name);
+  }
+}
+
+
+    }
+}

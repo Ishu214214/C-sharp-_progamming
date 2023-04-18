@@ -1,0 +1,16 @@
+int 4 bit
+long 8bite
+flot 4bite
+double 8bit
+bool 1 bite
+char 2bite
+string 2bite (each charactrt)
+
+typecasting  2type -> jo automatic ho double to int who impleceted typecasting and jo hum kara who explecit
+
+
+input -> string form ma laga -> Console.ReadLine():
+output-> Console.WriteLine();
+
+
+int age = Convert.TOInt32(Console.ReadLine());

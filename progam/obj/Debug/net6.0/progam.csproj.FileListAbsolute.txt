@@ -1,0 +1,15 @@
+C:\Users\ishuk\Desktop\sem 6\i3\progam\bin\Debug\net6.0\progam.exe
+C:\Users\ishuk\Desktop\sem 6\i3\progam\bin\Debug\net6.0\progam.deps.json
+C:\Users\ishuk\Desktop\sem 6\i3\progam\bin\Debug\net6.0\progam.runtimeconfig.json
+C:\Users\ishuk\Desktop\sem 6\i3\progam\bin\Debug\net6.0\progam.dll
+C:\Users\ishuk\Desktop\sem 6\i3\progam\bin\Debug\net6.0\progam.pdb
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.csproj.AssemblyReference.cache
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.AssemblyInfoInputs.cache
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.AssemblyInfo.cs
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.csproj.CoreCompileInputs.cache
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.dll
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\refint\progam.dll
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.pdb
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\progam.genruntimeconfig.cache
+C:\Users\ishuk\Desktop\sem 6\i3\progam\obj\Debug\net6.0\ref\progam.dll
